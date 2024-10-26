@@ -108,7 +108,7 @@ class HomePage extends StatelessWidget {
           //scrollDirection: ,
 
         //physics: NeverScrollableScrollPhysics(),
-          itemBuilder: (contextg, index) {
+          itemBuilder: (context, index) {
             return ListTile(
               title: Container(
                 decoration: BoxDecoration(
